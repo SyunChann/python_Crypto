@@ -60,15 +60,7 @@ _(Code_Sootorage 블로그에서 PasswordDeriveBytes와 PBKDF2HMAC 차이를 상
 
 ## 🚀 실행 방법
 
-### **1️⃣ Python 환경 설정**
-Python이 설치되어 있는지 확인합니다.
+Python이 설치되어 있는지 확인한 후, 아래 명령어를 실행하세요.
 
 ```sh
-python --version
-
-
-
-2️⃣ 필요한 패키지 설치 및 실행방법
-pip install cryptography requests
-python aaa.py
-python bbb.py
+python --version && pip install cryptography requests && python aaa.py && python bbb.py
